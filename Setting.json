@@ -1,0 +1,17 @@
+{
+  "Web": {
+	"web1": "http://indonesia-komunitas.com/",
+	"web2": "http://indonesia-security.com/",
+	"web3": "https://anime-worlds.co/",
+  },
+  "aplikasi": {
+    "ayolari": {
+      "msg": "Resiko Ditanggung Pengguna",
+      "stat": "1",
+      "versi": "1.0",
+      "link": "",
+      "wr": "1",
+
+    }
+  }
+}
